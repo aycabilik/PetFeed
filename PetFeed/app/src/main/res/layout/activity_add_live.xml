@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/addLive"
+    android:background="@color/color13"
+    tools:context=".AddLiveActivity">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/bar_add_live"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_LivePost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color7">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <ImageView
+                    android:id="@+id/closeLivePost"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:src="@drawable/ic_close_white"/>
+
+                <TextView
+                    android:id="@+id/postTxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Share"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="15dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"/>
+
+            </RelativeLayout>
+        </androidx.appcompat.widget.Toolbar>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:background="@color/color13"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/nameTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/profileIv"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:text="Full Name"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/liveText"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:hint="What's new?"
+                android:textColorHint="@color/black"
+                android:background="@drawable/shape_edittext01"
+                android:padding="7dp"
+                android:layout_marginTop="10dp"
+                android:maxLines="5"/>
+
+            <ImageView
+                android:id="@+id/addPhoto"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:scaleType="center"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/shape_edittext01"
+                android:src="@drawable/ic_baseline_add_photo_alternate_black"/>
+
+        </LinearLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+</LinearLayout>

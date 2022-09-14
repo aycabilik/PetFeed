@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007316327164",
+    "firebase_url": "https://petfeed-9e46a-default-rtdb.firebaseio.com",
+    "project_id": "petfeed-9e46a",
+    "storage_bucket": "petfeed-9e46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007316327164:android:3cc50ce97af41a76d05579",
+        "android_client_info": {
+          "package_name": "com.example.petfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007316327164-qjjjjc3he9tpbvtstcf2oe4b2hci5ag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0WOPlI_FOIHpNjFXtecOrdXSglWmWNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007316327164-qjjjjc3he9tpbvtstcf2oe4b2hci5ag5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
