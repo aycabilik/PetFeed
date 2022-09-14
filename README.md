@@ -25,22 +25,24 @@ institutions and organizations and volunteers, according to the regions where
 stray animals are found. This means that the animal-loving community will
 increase even more.
 
-![register](https://user-images.githubusercontent.com/76914745/190153643-1de0b2f0-2541-48cc-9e78-3aaa1538e0c7.png)
-![profile](https://user-images.githubusercontent.com/76914745/190153704-a21d05e2-1a44-4173-a267-e9667aa76688.png)
+![unknown](https://user-images.githubusercontent.com/76914745/190281288-aeb57c26-120a-4a6f-ad0e-9dd34dacbf56.png)
+![unknown2](https://user-images.githubusercontent.com/76914745/190281478-2b9ad686-e52c-4c9d-a46c-0d77e3e0aee8.png)
+
+
 
 ## Adding Live
-![addlive](https://user-images.githubusercontent.com/76914745/190153742-b9531901-2443-4568-8b29-2d535dcf4453.png)
+![image](https://user-images.githubusercontent.com/76914745/190281536-835964de-6c41-4b81-835a-bb2821725848.png)
 
 ## Live Page
-![live](https://user-images.githubusercontent.com/76914745/190153764-ca6aeb88-a938-4edc-a44a-d99b5eb37d75.png)
+![image](https://user-images.githubusercontent.com/76914745/190281659-cee886bc-73d8-4125-aff6-d455338e854b.png)
 
 ## Adding Location 
-![addLoc](https://user-images.githubusercontent.com/76914745/190153804-b477b8f2-7b30-4597-9b3a-67ac5c7822b9.png)
+![image](https://user-images.githubusercontent.com/76914745/190281740-2fcbe440-b0cc-4cb4-9f46-bfb28f2851a2.png)
 
 ## Location List
-![locList](https://user-images.githubusercontent.com/76914745/190153839-24252dd5-9549-4e1e-a9de-82c2cf22a46b.png)
+![image](https://user-images.githubusercontent.com/76914745/190281813-89677a24-9400-4259-b1a9-f8dea4249bcd.png)
 
 ## Location Map
-![mapPaw](https://user-images.githubusercontent.com/76914745/190153888-c5f5f21b-6f16-422f-8d41-d13eb63379c2.png)
+![image](https://user-images.githubusercontent.com/76914745/190281854-fd0cbc42-d72a-4feb-ac4a-c1d147c1a196.png)
 
 More in the app...
